@@ -24,7 +24,4 @@ A basic understanding of spreadsheets is helpful but not required.
 - Cohort analysis → User retention patterns  
 - Pie chart → Payment method distribution  
 
-🚀 Getting Started
-Clone the repository:
-git clone https://github.com/Mallikarjun-B-Patil/Basics-and-Fundamentals-of-Excel
-.git
+
